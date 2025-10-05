@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi there 
 
-<!--
-**topclutch/topclutch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Software Engineer | AI & ML Enthusiast | Full Stack Developer**
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm passionate about building scalable, data-driven applications that combine intelligent systems with robust software architecture.  
+My experience spans from backend development and APIs to machine learning, data analysis, and mobile app design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me  
+- 💻 I specialize in **AI, Machine Learning, and Full Stack Development**.  
+- 🧩 I enjoy designing modular and efficient systems using **microservices** and **clean architecture** principles.  
+- 📱 I’ve developed mobile and web apps focused on **user experience and scalability**.  
+- 🧠 Currently exploring **Reinforcement Learning** and **AI Optimization** techniques. 
+---
+
+## ⚙️ Tech Stack  
+
+**Languages & Frameworks:**  
+`Python` · `Node.js` · `Kotlin` · `JavaScript` · `React` · `Flask` · `TensorFlow`  
+
+**Frontend:**  
+`React` · `Vite` · `Bootstrap`  
+
+**Backend & Databases:**  
+`Flask` · `Node.js` · `MySQL` · `MongoDB` · `Firebase`  
+
+**DevOps & Tools:**  
+`GitHub Actions` · `CI/CD Pipelines` · `Docker` · `Postman` · `Linux`  
+
+**Machine Learning & Data:**  
+`Pandas` · `NumPy` · `Scikit-learn` · `TensorFlow`  
+
+---
+
+⭐ **"Code with purpose, learn with curiosity, and build with impact."**
