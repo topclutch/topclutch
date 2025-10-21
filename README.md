@@ -3,7 +3,7 @@
 🎯 **Software Engineer | AI & ML Enthusiast | Full Stack Developer**
 
 Welcome to my GitHub! I'm passionate about building scalable, data-driven applications that combine intelligent systems with robust software architecture.  
-My experience spans from backend development and APIs to machine learning, data analysis, and mobile app design.
+My experience spans from backend development and APIs to machine learning, data analysis, and mobile app development.
 
 ---
 
