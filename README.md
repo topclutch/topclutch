@@ -8,7 +8,7 @@ My experience spans from backend development and APIs to machine learning, data 
 ---
 
 ## 🧠 About Me  
-- 💻 I specialize in **AI, Machine Learning, and Full Stack Development**.  
+- 💻 I specialize in **AI, Machine Learning ,LLM, and Full Stack Development**.  
 - 🧩 I enjoy designing modular and efficient systems using **microservices** and **clean architecture** principles.  
 - 📱 I’ve developed mobile and web apps focused on **user experience and scalability**.  
 - 🧠 Currently exploring **Reinforcement Learning** and **AI Optimization** techniques. 
