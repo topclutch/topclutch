@@ -26,7 +26,7 @@ My experience spans from backend development and APIs to machine learning, data 
 `Flask` · `Node.js` · `MySQL` · `MongoDB` · `Firebase`  
 
 **DevOps & Tools:**  
-`GitHub Actions` · `CI/CD Pipelines` · `Docker` · `Postman` · `Linux`  
+`GitHub Actions` · `CI/CD Pipelines` · `Docker`   
 
 **Machine Learning & Data:**  
 `Pandas` · `NumPy` · `Scikit-learn` · `TensorFlow`  
