@@ -41,6 +41,5 @@ I am a Software Engineer combining strong mathematical foundations with practica
 
 ### 📫 Connect with me
 * 💼 [LinkedIn](https://www.linkedin.com/in/jorgeruiz-ai)
-* 📧 [Email](mailto:jorge@ruizdiaz.com.mx)
 
 ⭐ "Code with purpose, learn with curiosity, and build with impact."
