@@ -7,7 +7,7 @@ I am a Software Engineer combining strong mathematical foundations with practica
 
 ### 🧠 What I Do
 * 🤖 **AI Automation:** Architecting autonomous agents using **n8n** and **LangChain** to scrape, process, and distribute data.
-* 🧠 **AI Engineering:** Implementing multi-stage pipelines with **Local LLMs (GPT-OSS)** and OpenAI APIs.
+* 🧠 **AI Engineering:** Implementing multi-stage pipelines with **Local LLMs** and OpenAI APIs.
 * 💻 **Full-Stack Development:** Building robust distributed systems using **Python**, **Node.js**, and **PostgreSQL**.
 * 📱 **Mobile & Cloud:** Developing scalable apps with **Kotlin (Jetpack Compose)** and Dockerized microservices.
 
@@ -39,12 +39,7 @@ I am a Software Engineer combining strong mathematical foundations with practica
 
 ---
 
-### 📊 GitHub Stats
-![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=topclutch&show_icons=true&theme=radical)
-
----
-
 ### 📫 Connect with me
 * 💼 [LinkedIn](https://www.linkedin.com/in/jorgeruiz-ai)
-* 📧 [Email](mailto:jorge@ruizdiaz.com)
+* 📧 [Email](mailto:jorge@ruizdiaz.com.mx)
 * ⭐ "Code with purpose, learn with curiosity, and build with impact."
