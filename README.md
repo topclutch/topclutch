@@ -1,3 +1,4 @@
+![Banner](Captura de pantalla 2025-12-16 135453.png)
 # Hi there, I'm Jorge Ruiz 👋
 ### 🚀 Full-Stack & AI Engineer | Autonomous Agents & Microservices
 
