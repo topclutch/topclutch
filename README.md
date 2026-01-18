@@ -23,8 +23,4 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
-
-### 📫 Connect with me
-* 💼 [LinkedIn](https://www.linkedin.com/in/jorgeruiz-ai)
-
 ⭐ "Code with purpose, learn with curiosity, and build with impact."
