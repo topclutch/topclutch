@@ -1,5 +1,3 @@
----
-
 ### 🧠 What I Do
 * 🤖 **AI Automation:** Architecting autonomous agents using **n8n** and **LangChain** to scrape, process, and distribute data.
 * 🧠 **AI Engineering:** Implementing multi-stage pipelines with **Local LLMs** and OpenAI APIs.
