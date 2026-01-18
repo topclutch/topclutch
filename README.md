@@ -1,11 +1,3 @@
-### 🧠 What I Do
-* 🤖 **AI Automation:** Architecting autonomous agents using **n8n** and **LangChain** to scrape, process, and distribute data.
-* 🧠 **AI Engineering:** Implementing multi-stage pipelines with **Local LLMs** and OpenAI APIs.
-* 💻 **Full-Stack Development:** Building robust distributed systems using **Python**, **Node.js**, and **PostgreSQL**.
-* 📱 **Mobile & Cloud:** Developing scalable apps with **Kotlin (Jetpack Compose)** and Dockerized microservices.
-
----
-
 ### ⚙️ Tech Stack
 
 **Languages**
