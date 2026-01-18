@@ -1,5 +1,5 @@
 ![Banner](banner.png)
-# Hi there, I'm Jorge Ruiz 👋
+# Hi there👋
 ### 🚀 Full-Stack & AI Engineer | Autonomous Agents & Microservices
 
 I am a Software Engineer combining strong mathematical foundations with practical engineering to build **Autonomous Agents** and **Scalable Microservices**. I specialize in orchestrating complex ETL pipelines and deploying Local LLMs to automate business intelligence.
