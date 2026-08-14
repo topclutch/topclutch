@@ -5,7 +5,7 @@
 
 ## ⚡ Ing. de Software Fullstack & ML | Arquitecturas Distribuidas
 
-Soy un Ingeniero de Software enfocado en resolver problemas complejos. Me especializo en **Machine Learning, Node.js, Python** y en la integración de LLMs para automatizar y escalar operaciones. Actualmente cursando mi Maestría (Online) y construyendo sistemas robustos.
+Soy un Ingeniero de Software enfocado en resolver problemas complejos. Me especializo en **Machine Learning, Node.js, Python** y en la integración de LLMs para automatizar y escalar operaciones.
 
 ---
 
