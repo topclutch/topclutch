@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:151515&height=180&section=header&text=Full-Stack%20AI%20Engineer&fontSize=65&fontColor=ffffff&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:151515&height=180&section=header&text=Full-Stack%20AI%20Engineer&fontSize=65&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
+
+<div align="center">
 
 <div align="center">
 
