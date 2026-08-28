@@ -1,13 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=220&section=header&text=Full-Stack%20AI&fontSize=80&fontColor=58A6FF&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1c1c1c&height=180&section=header&text=Full-Stack%20AI%20Engineer&fontSize=65&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
 
-# Full-Stack AI Engineer
+### Software Engineering · Machine Learning · Distributed Systems · Agentic AI
 
-### Software Engineering · Machine Learning · LLM Applications · Distributed Systems
-
+</div>
 Diseño y construyo productos digitales, plataformas inteligentes y sistemas escalables desde la idea hasta producción.
 
 </div>
